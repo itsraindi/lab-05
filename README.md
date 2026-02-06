@@ -7,7 +7,6 @@
 
 ## References and Resources
 N/A
-List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
